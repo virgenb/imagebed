@@ -1,0 +1,2 @@
+2023-04-02T08:03:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1990656 bytes) in /home/vol16_2/byethost10.com/b10_33828887/htdocs/wp-includes/class-wp-scripts.php on line 237
+
